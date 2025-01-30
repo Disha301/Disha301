@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am studying BCA at avadh University 
+I am eager to learn and explore programming concepts 
+
 
 <!--
 **Disha301/Disha301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
